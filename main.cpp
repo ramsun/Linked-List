@@ -4,7 +4,7 @@ Fall 2018
 
 main.cpp
 
-This is the driver for the MachineProblem.  It creates 2 linked lists with 20 and 15 random
+This is the driver for the program.  It creates 2 linked lists with 20 and 15 random
 integers, sorts, then merges them.
 
 The floating point average and sum of the spliced linked list is then calculated.
