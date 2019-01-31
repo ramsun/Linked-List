@@ -1,8 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 272 - Machine Problem 3
 Fall 2018
 
 main.cpp
