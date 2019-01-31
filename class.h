@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 272 - Machine Problem 3
-Fall 2018
-
 class.h
 
 This file includes the declaration LinkedList class.  It also includes both the
